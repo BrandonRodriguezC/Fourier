@@ -1,2 +1,2 @@
-# Fourier
-Fourier Series with circles
+# FourierT
+A small project of fourier tranformations.
